@@ -68,5 +68,4 @@ nagarseva-citizen-platform/
 
 **Smart Governance & Civic Tech Hackathon** — Active Challenge
 
----
-Made with ❤️ using Claude AI
+
